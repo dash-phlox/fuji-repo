@@ -6,6 +6,7 @@
 * hyprlauncher-0.1.6
 * hyprtoolkit-0.5.4
 * hyprtoolkit-dev-0.5.4
+* qview-7.1
 
 ## Installation
 
