@@ -3,6 +3,7 @@
 ## Packages
 
 * alpine-base-3.25.0_alpha20260805
+* alpine-release-3.25.0_alpha20260805
 * grimblast-0.1
 * grimblast-doc-0.1
 * hyprland-guiutils-0.2.2
