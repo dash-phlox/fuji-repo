@@ -11,6 +11,7 @@
 * hyprlauncher-0.1.6
 * hyprtoolkit-0.5.4
 * hyprtoolkit-dev-0.5.4
+* legcord-1.3.0
 * qview-7.1
 
 ## Installation
